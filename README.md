@@ -5,5 +5,5 @@
 
 #Template 02
 
-![Hi](./template-02.gif)
+![02](./template-02.gif)
 
